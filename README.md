@@ -1,5 +1,5 @@
-
-# MASHUP GENERATOR
+# Mini-Project-34
+# `MASHUP GENERATOR WEBAPP`
 
 A Django based App which allows a user to Create Mashup of Songs of his/her favourite Singer
 
